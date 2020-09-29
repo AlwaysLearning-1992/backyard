@@ -4,4 +4,4 @@ Git first change.
 t branch
 change
 t branch second change
-test branch change  
+test branch change master change  
